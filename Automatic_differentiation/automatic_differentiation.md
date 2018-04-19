@@ -11,5 +11,12 @@ limitations of the computer itself in computing these functions. As the floating
 ![derivative definiton](https://github.com/SumaDodo/Numerical-Optimization/blob/master/Automatic_differentiation/definition-derivative-function-800x800.jpg)
 
 Automatic differentiation computes the derivatives in their exact values! 
-                                        
-                                        
+
+To understand the working of automatic differentiation, let us try working out the below problem.
+
+Let us try to construct simple expression like 
+````
+y = x1+x2*x2 
+````
+and try to evaluate their outputs as well as evaluate their gradients by using the computation graph and explicit construction of 
+the gradient nodes similar to tensor flow.
