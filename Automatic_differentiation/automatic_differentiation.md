@@ -6,6 +6,10 @@ Automatic differentiation is not just about computing the derivatives automatica
 generalizations like gradients and jacobians. 
 
 Going with the actual textbook definition of differentiation, it's computationally very difficult to make h very small owing to the 
-limitations of the computer itself in computing these functions.
+limitations of the computer itself in computing these functions. As the floating point values are rounded off.
 
+![derivative definiton](https://github.com/SumaDodo/Numerical-Optimization/blob/master/Automatic_differentiation/definition-derivative-function-800x800.jpg)
+
+Automatic differentiation computes the derivatives in their exact values! 
+                                        
                                         
