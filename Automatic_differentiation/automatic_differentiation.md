@@ -14,9 +14,16 @@ Automatic differentiation computes the derivatives in their exact values!
 
 To understand the working of automatic differentiation, let us try working out the below problem.
 
-Let us try to construct simple expression like 
+Let us first try understanding the Reverse mode Automatic differentiation.
+Automatic differentiation splits the tak of computing the derivatives into two tasks:  
+  1. Forward pass  
+  2. Reverse pass  
+Consider finding the derivatives of the below function
 ````
-y = x1+x2*x2 
+z = x1*x2+sin(x1) 
 ````
+and want to find the derivatives *dz/dx1 and dz/dx2* 
+
+
 and try to evaluate their outputs as well as evaluate their gradients by using the computation graph and explicit construction of 
 the gradient nodes similar to tensor flow.
