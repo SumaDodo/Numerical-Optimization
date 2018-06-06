@@ -1,0 +1,3 @@
+- PCA [Principal Component Analysis] is a common unsupervised method for analysis of gene expression microarray data, providing information   on the overall structure of the analysed dataset.
+- It is applied to various datasets of many different tissues and cell to create a low dimensional global map of human gene expression.
+- The paper intends to show that **linear instrinsic dimensionality of the global map is higher than previously reported.**
