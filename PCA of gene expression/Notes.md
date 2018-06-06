@@ -8,7 +8,9 @@
 1. It provides a fully unsupervised information on the dominant directions of the highest variability in the data and thus help investigate similarities between individual samples or formation of clusters.
 2. Most of the studies just concentrate on the first two to four pricipal components assuming the higher order components contain irrelevant data. 
 
-```
-Referencing paper: [Quantifying stability in gene list ranking across microarray derived clinical biomarkers](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/1755-8794-4-73) 
+**PCA vs MDA**  
+
+
+**Referencing paper:** [Quantifying stability in gene list ranking across microarray derived clinical biomarkers](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/1755-8794-4-73) 
 
 
