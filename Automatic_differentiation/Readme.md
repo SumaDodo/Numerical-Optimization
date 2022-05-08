@@ -1,5 +1,5 @@
 Automatic differentiation is sometimes known as mathematically finding derivatives! Itseems awesomely magical in the sense having known the 
-tideous task of computing the differntials and gradients in most of the machine learning and deep learning projects and concepts,
+tideous task of computing the differentials and gradients in most of the machine learning and deep learning projects and concepts,
 there is a tool that makes your work very easy! 
 
 Automatic differentiation is not just about computing the derivatives automatically but it also comprises about computing 
