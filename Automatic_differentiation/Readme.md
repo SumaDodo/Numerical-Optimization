@@ -1,4 +1,4 @@
-Automatic differentiation is sometimes known as mathemagically finding derivatives! Itseems awesomely magical in the sense having known the 
+Automatic differentiation is sometimes known as mathematically finding derivatives! Itseems awesomely magical in the sense having known the 
 tideous task of computing the differntials and gradients in most of the machine learning and deep learning projects and concepts,
 there is a tool that makes your work very easy! 
 
